@@ -11,9 +11,11 @@ body {
   color: #fafaf9;
   padding: 48p 64px;
   font-family: "Sono", sans-serif;
- 
 }
 
+.hidden {
+  display: none !important;
+}
 .header{
  margin-bottom: 40px;
  
